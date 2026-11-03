@@ -1,0 +1,7 @@
+{
+  "name": "make-it-better",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-11-03",
+  "assets": {"directory":"./public", "binding":"ASSETS", "run_worker_first":true},
+  "d1_databases": [{"binding":"DB", "database_name":"mib", "database_id":"[MISSING]", "migrations_dir":"migrations"}]
+}
